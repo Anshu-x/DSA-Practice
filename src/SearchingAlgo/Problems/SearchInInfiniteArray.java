@@ -9,7 +9,7 @@ public class SearchInInfiniteArray {
         System.out.println(SearchInInfiniteArray.ans(arr, 56));
 //        System.out.println(SearchInInfiniteArray.ans(arr, 564));
 //        System.out.println(SearchInInfiniteArray.ans(arr, -34));
-//        System.out.println(SearchInInfiniteArray.ans(arr, 2));
+        System.out.println(SearchInInfiniteArray.ans(arr, 2));
 //        System.out.println(SearchInInfiniteArray.ans(arr, 8));
     }
 
